@@ -1,1 +1,1 @@
-# Resulões para as provas técnicas em java
+## Resulções para as provas técnicas em java
